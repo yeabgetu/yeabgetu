@@ -1,64 +1,31 @@
-# Hi, I'm Yeab Getu 👋
+# Yeab Getu — Data Analyst
 
-### Data Analyst | SQL • Excel • Power BI • Python
+Economics graduate who turns business data into decisions, and tests whether a pattern actually holds before recommending action.
 
-I'm an **Economics graduate** with experience in data analytics. My background in economics has given me a strong foundation in **quantitative analysis, statistics, research, and problem-solving**.
+📍 Addis Ababa · Open to on-site and remote roles
+[LinkedIn](https://linkedin.com/in/yeab-getu-963394214) · yeabgetuu@gmail.com
 
-I enjoy working with data to uncover patterns, understand business performance, and turn analysis into **clear, actionable insights**.
+## Featured Projects
 
-## 🎓 Background
+### 📊 Mobile Checkout A/B Test & Revenue Forecast
+**BigQuery · BigQuery ML · Python · Power BI**
+Mobile checkout converts 2.9 pts below desktop (34.3% vs 37.2% of carts, p ≈ 0.005). The gap holds after adjusting for channel, is concentrated in Paid Social, and costs about $7,800/year. Forecast Q1 2026 revenue with a 2.9% backtest error.
+![dashboard](link-to-screenshot.png)
+→ [View project](LINK)
 
-**B.A. Economics**
+### ☕ Coffee Quality & Pricing Intelligence
+**Python · statsmodels · regression**
+Quality alone explains only ~11% of coffee price. A pricing benchmark (R² = 0.79) flags 2,578 high-quality lots (29%) priced at least 10% below expected value, with Ethiopia and Kenya showing the highest rates.
+→ [View project](LINK)
 
-My economics background gives me a strong foundation in quantitative analysis, research, statistics, and understanding how data connects to real-world business decisions.
+### 🛒 E-Commerce Funnel Analysis
+**PostgreSQL · Python · Power BI**
+64% cart abandonment across 25,000 sessions. Mobile converts 2.4 pts below desktop per session, and Organic brings the most traffic but converts worst.
+→ [View project](LINK)
 
-## 🚀 Current Focus
+## Toolkit
+**SQL** (PostgreSQL, BigQuery) · **Python** (pandas, statsmodels, SciPy) · **Power BI** (DAX, data modeling) · Excel · Stata · Git
+**Methods:** A/B testing & power analysis · regression & diagnostics · funnel analysis · forecasting
 
-I'm currently building practical data analytics projects using:
-
-**SQL → Excel → Power BI → Python → APIs → Automation**
-
-My goal is to help businesses **understand their data, identify opportunities, and make better decisions.**
-
-## 🛠️ Skills
-
-- **SQL:** PostgreSQL, CTEs, Subqueries, Window Functions
-- **Excel:** Data Cleaning, Analysis, Pivot Tables, Dashboards
-- **Power BI:** Data Modeling, DAX, Interactive Dashboards
-- **Python:** Data Cleaning, Analysis, Visualization
-- **APIs:** Data Collection and Integration
-- **Tools:** Git, GitHub, Power Query
-
-## 📊 Featured Projects
-
-### 🛒 E-Commerce Product Analysis
-**SQL**
-
-Analysis of e-commerce sales, customer behavior, and product performance to identify business trends and opportunities.
-
-### ☕ Coffee Shop Analysis
-**Excel / Power BI**
-
-Analysis of coffee shop sales, product performance, customer behavior, branch performance, and time-based trends.
-
-### 🎬 Netflix Content Analysis
-**Power BI / Power Query**
-
-Analysis of Netflix movies and TV shows to explore genres, ratings, content distribution, and trends.
-
-### 🌐 API Data Analysis
-**Python / SQL**
-
-Collection and analysis of external data through APIs to identify trends and generate useful business insights.
-
-## 📈 My Analytics Journey
-
-**Economics → SQL → Excel → Power BI → Python → APIs → Automation**
-
-I'm continuously building projects, improving my analytical skills, and developing a portfolio focused on solving **real-world business problems with data**.
-
-## 📫 Connect With Me
-
-- **GitHub:** [@yeabgetu](https://github.com/yeabgetu)
-- **LinkedIn:** https://www.linkedin.com/in/yeab-getu-963394214/
-
+## Other Work
+Coffee shop sales dashboard (Excel / Power BI) · Netflix content analysis (Power BI) · API data collection (Python)
